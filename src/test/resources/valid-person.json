@@ -1,0 +1,7 @@
+{
+  "name" : "TEst",
+  "address": {
+    "zip" : "88777",
+    "street" : "test"
+  }
+}
